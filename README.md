@@ -1,15 +1,15 @@
 # Unity3D-Android-scripts #
 
+## Getting Started ##
 
-# Getting Started #
 Полезные скрипты для Unity3D, чтобы собирать проект под Android, в том числе под игры VR.
 
+## Content ##
 
-# Content #
+### Содержание репозитория ###
 
-Содержание репозитория:
-- 
+- usb_android.cs - *скрипт для использования возможностей usb порта Android*
 
-# Authors
+## Authors ##
 
-* **Alexey Gaibura** - *Initial work* - [IdeoG](https://github.com/IdeoG)
+**Alexey Gaibura** - *Initial work* - [IdeoG](https://github.com/IdeoG)
